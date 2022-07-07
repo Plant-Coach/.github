@@ -22,6 +22,7 @@
       - Circle CI
       - REST APIs
       - Heroku
+      - JWT
     - Backend application containing most of the application logic
     - Manages the microservices
   </details>
