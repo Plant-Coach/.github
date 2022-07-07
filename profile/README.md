@@ -1,5 +1,3 @@
-# Welcome to Plant Coach!
-
 ### What is Plant Coach?
 - An application that allows a user to plan and maintain an organic garden through a series of tools based on 3rd-party weather APIs, custom planting advice, plant schedules, and periodic reminders.
 
