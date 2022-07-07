@@ -6,6 +6,9 @@
 
 <img src="https://img.shields.io/badge/-Sidekiq-FF6A00?logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
 
+### Tested with:
+<img src="https://img.shields.io/badge/-RSpec-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-SimpleCov-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Shoulda%20Matchers-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Capybara-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Factorybot-CC0000?&style=for-the-badge"/>
+
 
 ## Information about each repository:
   <details>
