@@ -11,14 +11,6 @@
 
 
 ## Information about each repository:
-  <details>
-    <summary> `plant_coach_fe` </summary>
-    
-    - Main tech: 
-      - Rails
-      - Bootstrap
-    - Frontend application for the user interface.
-  </details>
   
   <details>
     <summary> `plant_coach_be` </summary>
