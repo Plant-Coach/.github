@@ -8,7 +8,7 @@
 
 
 **Special Note:**
-- These repos are constantly being updated. Rather than a finished project (so far), Plant Coach is a repo of ways I've sought to improve my abilities as a Ruby Developer.
+- These repos are constantly being updated. Rather than a finished project (so far), [Plant Coach BE](https://github.com/Plant-Coach/plant_coach_be) is a repo of ways I've sought to improve my abilities as a Ruby Developer.
 
 
 
