@@ -1,16 +1,18 @@
 ### What is Plant Coach?
-- These services:
+- An application comprised of these services:
   - [Backend Repo (New code added weekly!)](https://github.com/Plant-Coach/plant_coach_be)
   - [Frontend Repo (New code added weekly!)](https://github.com/Plant-Coach/plant_coach_fe)
   - [Weather Microservice Repo](https://github.com/Plant-Coach/plant_coach_weather_api)
 - Plant Coach allows a user to plan and organize a vegetable garden through a series of tools based on 3rd-party weather APIs, custom planting logic, plant schedules, and periodic reminders.
 - This project has been planned using Kanban-style tickets within GitHub Projects.
+- These repos are constantly being updated. Rather than a finished project (so far), Plant Coach is a repo of ways I've sought to improve my abilities as a Ruby Developer.
 
 
 
 ### This App has been developed with the following Rails features:
   - 130+ RSpec tests with +99% coverage.
-  - Custom validations, validation helpers, ActiveModel::Dirty, conditional validations, and custom validation errors.
+  - CI pipelines with Circle CI to maintain a Continuous Deployment process.
+  - Custom Rails validations, validation helpers, ActiveModel::Dirty, and conditional validations.
   - Custom Rake Tasks.
   - Customized use of RSpec's advanced features and output options.
   - Secure and industry-standard handling of user credentials including the use of JWT tokens and HTTPOnly cookies.
@@ -30,8 +32,5 @@
 <img src="https://img.shields.io/badge/-RSpec-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-SimpleCov-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Shoulda%20Matchers-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Capybara-CC0000?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Factorybot-CC0000?&style=for-the-badge"/> 
 
 
-### Want to see my tests pass with RSpec?
-1. run `git clone <repo_of_your_choice>`.
-2. `cd <repo_name>` into the repo's directory.
-3. run `bundle install`
-4. run `bundle exec rspec`
+
+Thank you for visiting!  Please feel free to visit my repos to see how my code works so far or to offer a code review. 🤓
