@@ -5,6 +5,9 @@
   - [Weather Microservice Repo](https://github.com/Plant-Coach/plant_coach_weather_api)
 - Plant Coach allows a user to plan and organize a vegetable garden through a series of tools based on 3rd-party weather APIs, custom planting logic, plant schedules, and periodic reminders.
 - This project has been planned using Kanban-style tickets within GitHub Projects.
+
+
+**Special Note:**
 - These repos are constantly being updated. Rather than a finished project (so far), Plant Coach is a repo of ways I've sought to improve my abilities as a Ruby Developer.
 
 
