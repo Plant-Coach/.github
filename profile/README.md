@@ -10,10 +10,10 @@
 
 ### This App has been developed with the following Rails features:
   - 130+ RSpec tests with +99% coverage.
-  - Custom validations, validation helpers, conditional validations, and custom validation errors, and use of `ActiveRecord::Dirty`.
+  - Custom validations, validation helpers, ActiveModel::Dirty, conditional validations, and custom validation errors.
   - Custom Rake Tasks.
   - Customized use of RSpec's advanced features and output options.
-  - Secure and industry-standard handling of user credentials including the use of JWT tokens and HTTPOnly cookies to protect the app against Cross-Site Scripting attacks.
+  - Secure and industry-standard handling of user credentials including the use of JWT tokens and HTTPOnly cookies.
   - Rails-recommended use of SQL and ActiveRecord to protect against SQL injection attacks.
   - Rspec test mocking with WebMock and VCR.
   - Rails Mailers
