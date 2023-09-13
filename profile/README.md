@@ -1,5 +1,9 @@
 ### What is Plant Coach?
-- An application that allows a user to plan and maintain an organic garden through a series of tools based on 3rd-party weather APIs, custom planting advice, plant schedules, and periodic reminders.
+- These services:
+  - [Backend Repo (New code added weekly!)](https://github.com/Plant-Coach/plant_coach_be)
+  - [Frontend Repo (New code added weekly!)](https://github.com/Plant-Coach/plant_coach_fe)
+  - [Weather Microservice Repo](https://github.com/Plant-Coach/plant_coach_weather_api)
+- Plant Coach allows a user to plan and organize a vegetable garden through a series of tools based on 3rd-party weather APIs, custom planting logic, plant schedules, and periodic reminders.
 - This project has been planned using Kanban-style tickets within GitHub Projects.
 
 
