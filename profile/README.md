@@ -1,14 +1,26 @@
-### What is Plant Coach?
-- An application comprised of these services:
-  - [Backend Repo (New code added weekly!)](https://github.com/Plant-Coach/plant_coach_be)
-  - [Weather Microservice Repo](https://github.com/Plant-Coach/plant_coach_weather_api)
+## What is Plant Coach?
 - Plant Coach allows a user to plan and organize a vegetable garden through a series of tools based on 3rd-party weather APIs, custom planting logic, plant schedules, and periodic reminders.
-- This project has been planned using Kanban-style tickets within GitHub Projects.
+- Plant Coach is is a distributed application, deployed on a Kubernetes cluster which is created and managed through my own automation in Terraform modules, Helm Charts and GitHub Actions/Pipelines.
+- While I sought to make Plant Coach a remarkable organization tool for gardeners such as myself, it is also a playground for me to explore and learn what it takes to create a thoughtful experience for the end-user as well as for other developers who may work on it.
 
+- Plant Coach's code repos can be divided into 2 categories: *application* and *infrastructure*.
+### Application
+  - [Plant Coach Backend](https://github.com/Plant-Coach/plant_coach_be) - *Ruby on Rails*
+  - [Plant Coach Frontend](https://github.com/Plant-Coach/plant_coach_fe) - *Ruby on Rails*
+  - [Plant Coach Weather API](https://github.com/Plant-Coach/plant_coach_weather_api) - *Ruby on Rails*
+### Infrastructure
+  - [Plant Coach Helm](https://github.com/Plant-Coach/plant-coach-helm) - *Helm Chart*
+  - [DOKS Manager (DigitalOcean Kubernetes Manager)](https://github.com/Plant-Coach/doks_manager) - *Terraform Module*
 
-**Special Note:**
-- These repos are constantly being updated. Rather than a finished project (so far), [Plant Coach BE](https://github.com/Plant-Coach/plant_coach_be) is a repo of ways I've sought to improve my abilities as a Ruby Developer.
-
+### Upcoming Technical Priorities
+  - [x] Containerize backend service.
+  - [x] Move backend repo from Heroku to Kubernetes.
+  - [ ] Containerize frontend service.
+  - [ ] Move frontend repo from Heroku to Kubernetes.
+  - [ ] Containerize frontend service.
+  - [ ] Move weather API service from Heroku to Kubernetes.
+  - [ ] Resume normal Rails development after app is deployed again.
+  - [ ] Create testing environment in separate K8s cluster.
 
 
 ### This App has been developed with the following Rails features:
