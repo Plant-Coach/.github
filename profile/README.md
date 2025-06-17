@@ -21,20 +21,6 @@
   - [ ] Move weather API service from Heroku to Kubernetes.
   - [ ] Resume normal Rails development after app is deployed again.
   - [ ] Create testing environment in separate K8s cluster.
-
-
-### This App has been developed with the following Rails features:
-  - 130+ RSpec tests with +99% coverage.
-  - CI pipelines with Circle CI to maintain a Continuous Deployment process.
-  - Custom Rails validations, validation helpers, ActiveModel::Dirty, and conditional validations.
-  - Custom Rake Tasks.
-  - Customized use of RSpec's advanced features and output options.
-  - Secure and industry-standard handling of user credentials including the use of JWT tokens and HTTPOnly cookies.
-  - Rails-recommended use of SQL and ActiveRecord to protect against SQL injection attacks.
-  - Rspec test mocking with WebMock and VCR.
-  - Rails Mailers
-  - Rails MVC
-  
   
   
 ### Built With:
