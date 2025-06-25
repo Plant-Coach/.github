@@ -10,6 +10,7 @@
   - [Plant Coach Weather API](https://github.com/Plant-Coach/plant_coach_weather_api) - *Ruby on Rails*
 ### Infrastructure
   - [Plant Coach Helm](https://github.com/Plant-Coach/plant-coach-helm) - *Helm Chart*
+  - [Nginx Ingress Maintainer](https://github.com/Plant-Coach/nginx-ingress-maintainer) - *Helm Chart*
   - [DOKS Manager (DigitalOcean Kubernetes Manager)](https://github.com/Plant-Coach/doks_manager) - *Terraform Module*
 
 ### Upcoming Technical Priorities
