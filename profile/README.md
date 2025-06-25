@@ -3,7 +3,7 @@
 - Plant Coach is is a distributed application, deployed on a Kubernetes cluster which is created and managed through my own automation in Terraform modules, Helm Charts and GitHub Actions/Pipelines.
 - While I sought to make Plant Coach a remarkable organization tool for gardeners such as myself, it is also a playground for me to explore and learn what it takes to create a thoughtful experience for the end-user as well as for other developers who may work on it.
 
-- Plant Coach's code repos can be divided into 2 categories: *application* and *infrastructure*.
+- Plant Coach's code repos are divided into 2 categories: *application* and *infrastructure*.
 ### Application
   - [Plant Coach Backend](https://github.com/Plant-Coach/plant_coach_be) - *Ruby on Rails*
   - [Plant Coach Frontend](https://github.com/Plant-Coach/plant_coach_fe) - *Ruby on Rails*
