@@ -16,11 +16,12 @@
 ### Upcoming Technical Priorities
   - [x] Containerize backend service.
   - [x] Move backend repo from Heroku to Kubernetes.
-  - [ ] Containerize frontend service.
-  - [ ] Move frontend repo from Heroku to Kubernetes.
-  - [ ] Containerize frontend service.
-  - [ ] Move weather API service from Heroku to Kubernetes.
-  - [ ] Resume normal Rails development after app is deployed again.
+  - [x] Containerize frontend service.
+  - [x] Move frontend repo from Heroku to Kubernetes.
+  - [x] Containerize frontend service.
+  - [x] Move weather API service from Heroku to Kubernetes.
+  - [x] Resume normal Rails development after app is deployed again.
+  - [x] Automate helm publishing
   - [ ] Create testing environment in separate K8s cluster.
   
   
