@@ -1,5 +1,5 @@
 ## What is Plant Coach?
-- Plant Coach is a (rather large) demo project where I can playground with new technologies and grow as a developer....perhaps someday it will be a wonderful application used by many.
+- Plant Coach is a demo project where I can playground with new technologies and grow as a developer....perhaps someday it will be a wonderful application used by many.
 - Plant Coach allows a user to plan and organize a vegetable garden through a series of tools based on 3rd-party weather APIs, custom planting logic, plant schedules, and periodic reminders.
 - Plant Coach is also a playground for me to learn and refine technical skillsets and knowledge of current development trends.
 
