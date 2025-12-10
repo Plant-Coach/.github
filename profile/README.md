@@ -16,22 +16,22 @@
   - [DOKS Manager (DigitalOcean Kubernetes Manager)](https://github.com/Plant-Coach/doks_manager) - *Terraform*
 
 
-### Application Tech Stack:
-- Ruby 3.4.3
-- Rails 8.0.2
-- Postgresql 17
+### Application Tech Stack
+- Ruby 3
+- Rails 8
+- Postgresql
 - RSpec
 
-### Infrastructure
-- Terraform
-- Docker
-- Vault
-- Kubernetes
-- Postgresql
-- Helm
+### Infrastructure Tech Stack
+- DigitalOcean
 - GitHub Actions
-- Istio
+- Kubernetes
+- Helm
 - NGINX
+- Docker
+- Terraform
+- Postgresql
+- Istio
 
 ---
 
