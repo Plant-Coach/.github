@@ -8,10 +8,10 @@
 
 ### Application Code
   - [Plant Coach Backend](https://github.com/Plant-Coach/plant_coach_be) - *Ruby on Rails 8*
-  - [Plant Coach Frontend](https://github.com/Plant-Coach/plant_coach_fe) - *Ruby on Rails 8*
-  - [Plant Coach Weather API](https://github.com/Plant-Coach/plant_coach_weather_api) - *Ruby on Rails 8*
+  - [Plant Coach Frontend](https://github.com/Plant-Coach/plant_coach_fe) - *Ruby on Rails 8* (private)
+  - [Plant Coach Weather API](https://github.com/Plant-Coach/plant_coach_weather_api) - *Ruby on Rails 8* (private)
 ### Infrastructure (as) Code
-  - [Plant Coach Helm](https://github.com/Plant-Coach/plant-coach-helm) - *Helm Chart*
+  - [Plant Coach Helm](https://github.com/Plant-Coach/plant-coach-helm) - *Helm Chart* (Private)
   - [Nginx Ingress Maintainer](https://github.com/Plant-Coach/nginx-ingress-maintainer) - *Helm Chart*
   - [DOKS Manager (DigitalOcean Kubernetes Manager)](https://github.com/Plant-Coach/doks_manager) - *Terraform*
 
